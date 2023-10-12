@@ -41,3 +41,17 @@ Three machine learning models are trained and evaluated:
 - Random Forest Classifier
 - K-Nearest Neighbors (KNN)
 
+Run using https://colab.research.google.com
+
+Make sure you have the following Python libraries installed:
+
+numpy
+pandas
+matplotlib
+pandas-datareader
+scikit-learn
+tensorflow
+You can install these libraries using pip:
+
+pip install numpy pandas matplotlib pandas-datareader scikit-learn tensorflow
+
